@@ -20,6 +20,6 @@ Classify_Poems_web.py
 APCD_plus_porse_all.zip
 
 To execute the python program:
-a. Download the python program in some folder.
-b. Uncompress the file APCD_plus_porse_all.zip in the same folder.
-c. Execute $python ./Classify_Poems_web.py
+1) Download the python program in some folder.
+2) Uncompress the file APCD_plus_porse_all.zip in the same folder.
+3) Execute $python ./Classify_Poems_web.py
