@@ -23,3 +23,6 @@ To execute the python program:
 1) Download the python program in some folder.
 2) Uncompress the file APCD_plus_porse_all.zip in the same folder.
 3) Execute $python ./Classify_Poems_web.py
+
+To cite this repository, use:
+Gheith A. Abandah, 2020. Classify Arabic Poetry. GitHub; https://github.com/Gheith-Abandah/classify-arabic-poetry.git.
