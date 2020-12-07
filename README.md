@@ -4,7 +4,9 @@ Code and dataset for building a machine learning model that classifies Arabic po
 This reposotory has the following files:
 
 1. Arabic PCD version 2.0 (APCD2) dataset that consists of the following two files:
+
 1.1. APCD_plus_porse_test.zip is the test set
+
 1.2. APCD_plus_porse_test.zip is the train set
 
 This dataset is based on APCD that has the following reference:
