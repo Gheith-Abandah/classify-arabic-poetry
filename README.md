@@ -4,8 +4,8 @@ Code and dataset for building a machine learning model that classifies Arabic po
 This reposotory has the following files:
 
 1. Arabic PCD version 2.0 (APCD2) dataset that consists of the following two files:
-a- APCD_plus_porse_test.zip is the test set
-b- APCD_plus_porse_test.zip is the train set
+(a) APCD_plus_porse_test.zip is the test set
+(b) APCD_plus_porse_test.zip is the train set
 
 This dataset is based on APCD that has the following reference:
 Yousef, W. A., Ibrahime, O. M., Madbouly, T. M., Mahmoud, M. A., El-Kassas, A. H., Hassan, A. O. Albohy, A. R., 2018. Poem Comprehensive Dataset (PCD). Available: https://hci-lab.github.io/ArabicPoetry-1-Private/#PCD
@@ -20,9 +20,11 @@ Classify_Poems_web.py
 APCD_plus_porse_all.zip
 
 To execute the python program:
-1) Download the python program in some folder.
-2) Uncompress the file APCD_plus_porse_all.zip in the same folder.
-3) Execute $python ./Classify_Poems_web.py
+(a) Download the python program in some folder.
+(b) Uncompress the file APCD_plus_porse_all.zip in the same folder.
+(c) Execute $python ./Classify_Poems_web.py
+
+4. The paper that descrbes this work.
 
 To cite this repository, use:
 Gheith A. Abandah, 2020. Classify Arabic Poetry. GitHub; https://github.com/Gheith-Abandah/classify-arabic-poetry.git.
